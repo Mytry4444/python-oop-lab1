@@ -2,7 +2,7 @@ import math
 from root import root
 
 try:
-    x = float(input("give your value for x: "))
+    x = float(input("Введіть значення для x: "))
 
     if x < 0:
         print("Помилка: Неможливо обчислити квадратний корінь з від'ємного числа!")
